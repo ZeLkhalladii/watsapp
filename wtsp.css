@@ -1,3 +1,41 @@
 .text2{
-    float: right;
+    width: 100%;
+    position: relative;
+    left: 50%;
 }
+
+
+.container {
+    background-image: url("https://i.pinimg.com/originals/79/5c/ab/795cabc4647f73b365e2e6eabd0f34dc.png");
+    background-size: cover;
+    width: 50%;
+    height: auto;
+    position: relative;
+    left: 325px;
+    margin-top: 10px;
+    margin-left: 13px;
+}
+#input1  {
+    margin-left: 4px;
+    border-radius: 20px;
+    height: 41px;
+    width: 226px;
+}
+.send1 
+    {
+        height: 34px;
+        border-radius: 10px;
+        width: 79px;
+        float: left;
+        margin-left: 125px;
+        margin-top: 6px;
+        background-color: rgb(9, 230, 39);
+    }
+    .send2 
+    {
+        height: 34px;
+        border-radius: 10px;
+        width: 79px;
+        background-color: rgb(9, 230, 39);
+
+    }
